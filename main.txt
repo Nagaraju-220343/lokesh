@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this changed in the main branch
+=======
+this is modified ,in feature/Branch
+>>>>>>> a5412e5 (feature/Branch updated)
